@@ -1,20 +1,4 @@
-# Database files
 inventory.db
-
-# Backup files
 backup.csv
-
-# Virtual environment folders
-venv/
 env/
-.venv/
-.env/
-
-# Python cache
 __pycache__/
-*.py[cod]
-*$py.class
-
-# OS files
-.DS_Store
-Thumbs.db
